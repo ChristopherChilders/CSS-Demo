@@ -11,3 +11,28 @@ these are the styles for the whole document
     font-family: 'Srisakdi', cursive;    
     color: rgb(45, 211, 200);
 }
+
+.navbar ul {
+    padding: 0
+}
+
+.navbar li{
+    color: green;
+    list-style: none;
+}
+
+.main-image{
+    width: 140px;
+}
+
+.main-image img{
+    width: 100%;
+}
+
+.ferris-wheel-stock-image {
+    background-image: url(../images/ferris-wheel-stock-image.jpg);
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
