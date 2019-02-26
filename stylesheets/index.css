@@ -3,9 +3,10 @@ these are the styles for the whole document
 */
 .main-title
  {
-    background: red;
+    background: rgba(255, 0, 0, 0.45);
     padding: 10px 35px;
     margin: 0;
+    margin-top: 20px;
 }
 .fancy-font, .navbar {
     font-family: 'Srisakdi', cursive;    
@@ -35,4 +36,5 @@ these are the styles for the whole document
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    padding-top: 20px;
 }
