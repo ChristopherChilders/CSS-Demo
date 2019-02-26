@@ -5,3 +5,7 @@ these are the styles for the whole document
  {
     background: red;
 }
+.fancy-font, .navbar {
+    font-family: 'Srisakdi', cursive;    
+    color: rgb(45, 211, 200);
+}
