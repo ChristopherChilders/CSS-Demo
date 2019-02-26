@@ -4,6 +4,8 @@ these are the styles for the whole document
 .main-title
  {
     background: red;
+    padding: 10px 35px;
+    margin: 0;
 }
 .fancy-font, .navbar {
     font-family: 'Srisakdi', cursive;    
